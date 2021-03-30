@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="153" height="22" viewBox="0 0 153 22" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .tag {
+        fill: #ff5722;
+        }
+        .tag2 {
+        fill: #f44336;
+        }
+        .caption {
+        fill: #263238;
+        }
+    </style>
+    <path class="tag" id="lt" d="M0,8 h2 v-2 h2 v-2 h2 v-2 h4 v2 h-2 v2 h-2 v2 h-2 v2 h2 v2 h2 v2 h2 v2 h-4 v-2 h-2 v-2 h-2 v-2 h-2"/>
+    <path class="tag2" id="slash" d="M13,16 v-4 h2 v-2 h2 v-2 h2 v-2 h2 v-2 h2 v-4 h4 v4 h-2 v2 h-2 v2 h-2 v2 h-2 v2 h-2 v4"/>
+    <g class="caption" id="caption">
+        <path class="caption-char caption-char-p" id="character1" d="M34,8 v14 h-4 v-16 h12 v2 h2 v6 h-2 v2 h-8 v-2 h6 v-6"/>
+        <path class="caption-char caption-char-r" id="character2" d="M53,10 h-2 v6 h-4 v-10h4 v2 h2 v-2 h6 v2 h-6"/>
+        <path class="caption-char caption-char-o" id="character3" d="M66,8 v8 h-2 v-2 h-2 v-6 h2 v-2 h10 v2 h2 v6 h-2 v2 h-8 v-2 h6 v-6"/>
+        <path class="caption-char caption-char-g" id="character4" d="M83,8 v8 h-2 v-2 h-2 v-6 h2 v-2 h12 v14 h-2 v2 h-10 v-2 h8 v-4 h-6 v-2 h6 v-6"/>
+        <path class="caption-char caption-char-e" id="character5" d="M100,8 v6 h8 v2 h-10v-2 h-2 v-6 h2 v-2 h10 v2 h2 v4 h-10v -2 h6 v-2"/>
+        <g class="caption-char caption-char-j" id="character6">
+            <path d="M123,0 v4 h-4 v-4"/>
+            <path d="M123,6 v10 h-2 v2 h-6 v-2 h-2 v-2 h4 v2 h2 v-10"/>
+        </g>
+        <path class="caption-char caption-char-a" id="character7" d="M130,12 v4 h-2 v-2 h-2 v-2 h2 v-2 h8 v-2 h-8 v-2 h10 v2 h2 v8 h-10 v-2 h6 v-2"/>
+    </g>
+    <path class="tag" id="gt" d="M153,8 v2 h-2 v2 h-2 v2 h-2 v2 h-4 v-2 h2 v-2 h2 v-2 h2 v-2 h-2 v-2 h-2 v-2 h-2 v-2 h4 v2 h2 v2 h2 v2"/>
+</svg>
